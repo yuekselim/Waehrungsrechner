@@ -27,7 +27,7 @@ alternativ kann ein API-Key genutzt werden, um aktuelle Daten zu erhalten.
 ## 🌐 Live-Demo
 
 Hier kannst du die Anwendung direkt ausprobieren:  
-👉 [AufgabenPlaner Live ansehen](https://yuekselim.github.io/Waehrungsrechner/)
+👉 [Währungsrechner Live ansehen](https://yuekselim.github.io/Waehrungsrechner/)
 
 
 ## 📸 Screenshot
