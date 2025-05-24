@@ -31,7 +31,7 @@ Hier kannst du die Anwendung direkt ausprobieren:
 
 
 ## 📸 Screenshot
-![Screenshot](screenshot.png)  
+![Screenshot](screenshot.png)    
 
  
 
