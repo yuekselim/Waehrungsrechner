@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Währungsrechner</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Währungsrechner</h1>
+    <div class="converter-box">
+      <div class="input-group">
+        <label for="amount">Betrag</label>
+        <input type="number" id="amount" placeholder="z.B. 100">
+      </div>
+
+      <div class="input-group">      
+        <label for="from">Von</label>
+        <select id="from">      
+        </select>
+    </div>
+      
+
+      <div class="input-group">
+        <label for="to">Nach</label>
+        <select id="to">
+         
+        </select>
+      </div>
+
+      <button id="convert-btn">Umrechnen</button>
+
+      <div class="result" id="result"></div>
+    </div>
+ <div class="api-key-container">
+  <label for="api-key">API-Schlüssel eingeben:</label>
+  <input type="text" id="api-key" placeholder="Ihr API-Key">
+  <button id="api-key-btn" type="button">Aktualisieren</button>
+</div>
+
+<p class="api-info">
+  ⚠️ Standardmäßig werden Wechselkurse aus einer lokalen Datei geladen.<br>
+  Für aktuelle Kurse benötigen Sie einen kostenlosen API-Key von  
+  <a href="https://freecurrencyapi.com/" target="_blank">freecurrencyapi.com</a>.
+</p>
+
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
