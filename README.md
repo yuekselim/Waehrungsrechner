@@ -24,9 +24,11 @@ alternativ kann ein API-Key genutzt werden, um aktuelle Daten zu erhalten.
 2. Datei `index.html` im Browser öffnen  
 3. Optional: API-Key bei [freecurrencyapi.com](https://freecurrencyapi.com/) holen und im Eingabefeld einfügen
 
-## 🧠 Motivation
+## 🌐 Live-Demo
 
-Dieses Projekt wurde zum Lernen und Üben von API-Integration, dynamischem DOM und AJAX-Kommunikation erstellt.
+Hier kannst du die Anwendung direkt ausprobieren:  
+👉 [AufgabenPlaner Live ansehen](https://yuekselim.github.io/Waehrungsrechner/)
+
 
 ## 📸 Screenshot
 ![Screenshot](Screenshot.png)  
