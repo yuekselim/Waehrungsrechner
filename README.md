@@ -31,5 +31,7 @@ Hier kannst du die Anwendung direkt ausprobieren:
 
 
 ## 📸 Screenshot
-![Screenshot](Screenshot.png)  
+![Screenshot](## 📸 Screenshot
+
+<img src="https://yuekselim.github.io/Waehrungsrechner/screenshot.png" alt="Screenshot" width="500">)  
 
